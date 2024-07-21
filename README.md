@@ -1,2 +1,6 @@
-# Mongo
-MongoOJ,是一个基于python+flask+bootstrap开发的信息学在线评测系统。其移植性较强，可以添加api、模块等附加功能
+# MongoOJ
+mongoOJ，基于python+flask框架和大量javascript构成，多系统通用。
+
+【更新计划】
+模块
+api
